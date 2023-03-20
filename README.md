@@ -1,2 +1,2 @@
 # LOGO-COMPANY
-Through this project what I have done is simply made a website using HTML and CSS ability. 
+This was my first project which is completed quite gracefully. Through this project what I have done is simply made a static website which is not responsive for now but I will soon try to make this webpage responsive. This project was given as an assignment where we were given pictures of the website which was expected.I simply first made the skeleton of the website using HTML and then added design using CSS.
